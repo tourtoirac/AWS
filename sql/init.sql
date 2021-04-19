@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON todoList.* TO 'django'@'%';
+FLUSH PRIVILEGES;
